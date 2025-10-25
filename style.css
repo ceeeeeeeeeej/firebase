@@ -6,7 +6,7 @@
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-    background: url('asset/image/image.png') center center / cover no-repeat fixed;
+    background: url('image.png') center center / cover no-repeat fixed;
     min-height: 100vh;
     padding: 20px;
     position: relative;
